@@ -1,4 +1,4 @@
-# DS-Bitcoin-Cryptocurrency-Market
+# DS Bitcoin Cryptocurrency Market
 In this project, I conducted an analysis of the cryptocurrency market using historical data to better understand market trends and characteristics. The dataset utilized was sourced from the CoinMarketCap API and contained data on various cryptocurrencies' market capitalization, 24-hour and 7-day percent changes in value, and other relevant information.
 
 Key findings from the analysis include:\
